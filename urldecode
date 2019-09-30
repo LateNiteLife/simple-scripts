@@ -1,0 +1,8 @@
+#!/usr/bin/python2
+import sys, urllib as ul
+
+if len(sys.argv) > 1:
+    input = sys.argv[1]
+else:
+    input = sys.stdin.readline()
+print ul.unquote_plus(input)
