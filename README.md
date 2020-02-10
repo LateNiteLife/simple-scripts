@@ -1,2 +1,2 @@
 # simple-scripts
-Simple python or shell scripts for CLI use.
+Simple scripts for CLI use.
